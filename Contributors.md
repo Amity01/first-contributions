@@ -5,6 +5,7 @@
 - [Alex Tu](https://github.com/AlexTu2)
 - [my github url] (https://github.com/rladbgus)
 - [Mohamed Salah] (https://github.com/M-O-H)
+-Amit Yadav
 - [Ishan Roychowdhury] (https://github.com/hi101000)
 - [Goutham S] (https://github.com/GouthamSurendran)
 - [Rahmat Sulistio](https://github.com/rahmat-st)
